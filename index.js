@@ -6,5 +6,5 @@ app.get('/', () =>{
 })
 
 app.listen(PORT, () => {
-console.log("gcp serevr is running tv 3000")
+console.log("gcp serevr is running at 3000")
 })
